@@ -29,3 +29,30 @@ header li  a{
     font-weight: bold;
     float: left;
 }
+/* *************************IMAGE PRINCIPALE********************************** */
+#imagePrincipale{
+    padding-top: 60px;
+    background: url(media/image-principale.JPG) no-repeat fixed 50% 50%;
+    background-size:cover;
+    height: 680px;
+}
+h1{
+    font-family: 'Dancing Script',cursive;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 6em;
+    margin-top: 110px;
+}
+#premierTrait{
+    height: 3px;
+    width: 25%;
+    margin: -3px auto;
+    background-color: #fffae1;
+    box-shadow: 1px 3px 2px black;
+}
+h3{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 3em;
+    text-shadow: 1px 3px 2px black;
+}
