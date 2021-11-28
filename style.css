@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100&family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body {font-family: 'Advent Pro',sans-serif;padding: 0;margin: 0;}
+ul {margin: 0;padding: 0;}
+li {list-style: none;}
+h2 {text-transform: uppercase;text-align: center;padding-top:30px;font-size: 2em;}
+a {text-decoration: none;color: black;}
+
+/*********************NAVBAR************************** */
+nav {
+    overflow: hidden;
+    background-color: #fffae1;
+    position: fixed;
+    width: 100%;
+    opacity: 0.9;
+}
+header li{
+    float: right;
+    font-size: 1.2em;
+}
+header li  a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 18px 16px;
+}
+#logo{
+    font-family: 'Dacing Script',cursive;
+    font-weight: bold;
+    float: left;
+}
