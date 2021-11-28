@@ -56,3 +56,12 @@ h3{
     font-size: 3em;
     text-shadow: 1px 3px 2px black;
 }
+
+/*********************************PRESENTATION***************************/
+#presentation{
+    background-color: #fffae1;
+    padding: 10px 0px 100px 0px;
+}
+#texteIntro{
+    padding: 0px 20%;
+}
